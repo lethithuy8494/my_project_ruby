@@ -12,9 +12,8 @@
   background-color: #f55e55;
   border: none;
   color: #fff;
+  
+  -ms-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
 }
-.container input[type="submit"] {
-    -ms-transform: rotate(45deg);
-    -webkit-transform: rotate(45deg);
-    transform: rotate(45deg);
-  }
